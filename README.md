@@ -71,6 +71,7 @@ This is a showcase project. Online banking is an electronic payment system that 
 * [Postgresql](https://www.postgresql.org/)
 * [React](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
+* [Maven](https://maven.apache.org/)
 
 
 
