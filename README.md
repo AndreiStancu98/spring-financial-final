@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DraganicaCiprian/spring-financial-final">
-    <img src="/frontend/src/images/logo.png" alt="Logo" width="800" height="800">
+    <img src="/frontend/src/images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <p align="center">
