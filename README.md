@@ -6,16 +6,16 @@
   </a>
 
   <p align="center">
-    project_description
+    An Online Banking application for a fictional bank called Spring Financial
     <br />
-    <a href="https://github.com/DraganicaCiprian/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DraganicaCiprian/spring-financial-final"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DraganicaCiprian/repo_name">View Demo</a>
+    <a href="https://github.com/DraganicaCiprian/spring-financial-final">View Demo</a>
     ·
-    <a href="https://github.com/DraganicaCiprian/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/DraganicaCiprian/spring-financial-final/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DraganicaCiprian/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/DraganicaCiprian/spring-financial-final/issues">Request Feature</a>
   </p>
 </p>
 
@@ -39,11 +39,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -52,11 +47,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://gifyu.com/image/5d9X)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`DraganicaCiprian`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`DraganicaCiprian`, `spring-financial-final`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
@@ -84,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DraganicaCiprian/repo_name.git
+   git clone https://github.com/DraganicaCiprian/spring-financial-final.git
    ```
 2. Install NPM packages
    ```sh
@@ -105,7 +100,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/DraganicaCiprian/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/DraganicaCiprian/spring-financial-final/issues) for a list of proposed features (and known issues).
 
 
 
@@ -134,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/DraganicaCiprian/repo_name](https://github.com/DraganicaCiprian/repo_name)
+Project Link: [https://github.com/DraganicaCiprian/spring-financial-final](https://github.com/DraganicaCiprian/spring-financial-final)
 
 
 
