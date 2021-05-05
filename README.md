@@ -49,16 +49,28 @@
 
 ![Product Name Screen Shot](https://media3.giphy.com/media/fJXBnCIBMd9Cle8VUB/giphy.gif?cid=790b761136b46fe8beab86b5da613c6ff8d08c99a340a78c&rid=giphy.gif&ct=g)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`DraganicaCiprian`, `spring-financial-final`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is a showcase project. Online banking is an electronic payment system that enables the customer of a bank or other financial institution to conduct a range of financial transactions through the institution’s website. There are two types of accounts, custommer and employee. Employees can add new custommers , open accounts , issue cards, close accounts. Custommers can see information about themselves, their banking accounts like balance, currency , their cards and can send and receive money to and from other bank users.
+
+### Features
+
+* Secure JWT token authentication with Spring Security
+* Content based on user type
+* User page
+* Employee page
+* Branch Offices page
+* About page
+* FAQ page
+* Feedback page where users can rate the app
+* Help page where users can send messages to the app admin
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Spring](https://spring.io/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Postgresql](https://www.postgresql.org/)
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 
@@ -69,7 +81,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* Postgresql
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -85,58 +98,18 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+   
+3. Create an empty psql database
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/DraganicaCiprian/spring-financial-final/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+4. Set database name, user and password in backend/src/main/resources/application.properties 
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Draganica Ciprian -  draganicaciprian@gmail.com
 
 Project Link: [https://github.com/DraganicaCiprian/spring-financial-final](https://github.com/DraganicaCiprian/spring-financial-final)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
