@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://s3.gifyu.com/images/Rotating_earth_large.gif)
+![Product Name Screen Shot](https://media3.giphy.com/media/fJXBnCIBMd9Cle8VUB/giphy.gif?cid=790b761136b46fe8beab86b5da613c6ff8d08c99a340a78c&rid=giphy.gif&ct=g)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
